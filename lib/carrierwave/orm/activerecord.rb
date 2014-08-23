@@ -76,4 +76,4 @@ module CarrierWave
   end # ActiveRecord
 end # CarrierWave
 
-ActiveRecord::Base.extend CarrierWave::ActiveRecord
+# ActiveRecord::Base.extend CarrierWave::ActiveRecord
